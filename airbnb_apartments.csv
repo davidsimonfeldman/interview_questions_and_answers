@@ -1,0 +1,22 @@
+host_id,apartment_id,apartment_type,n_beds,n_bedrooms,country,city
+0,A1,Room,1,1,USA,New York
+0,A2,Room,1,1,USA,New Jersey
+0,A3,Room,1,1,USA,New Jersey
+1,A4,Apartment,2,1,USA,Houston
+1,A5,Apartment,2,1,USA,Las Vegas
+2,A6,Yurt,3,1,Mongolia,-
+3,A7,Penthouse,3,3,China,Tianjin
+3,A8,Penthouse,5,5,China,Beijing
+4,A9,Apartment,2,1,Mali,Bamako
+5,A10,Room,3,1,Mali,Segou
+5,A11,Room,2,1,Mali,Segou
+6,A12,Penthouse,6,6,Luxembourg,Luxembourg
+7,A13,Room,4,1,Luxembourg,Luxembourg
+8,A14,Apartment,2,1,Australia,Perth
+9,A15,Apartment,2,1,Australia,Perth
+9,A16,Apartment,2,1,Australia,Perth
+10,A17,Room,4,1,Brazil,Rio De Janeiro
+10,A18,Room,4,1,Argentina,Mendoza
+10,A19,Room,4,2,Uruguay,Mercedes
+10,A20,Room,4,2,Brazil,Brasilia
+11,A21,Apartment,2,2,Mexico,Mexico City

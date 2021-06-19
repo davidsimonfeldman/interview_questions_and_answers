@@ -1,0 +1,848 @@
+name,amg_person_id,top_genre,birthday,id
+Spencer Tracy,P 71578,Drama,05-04-1900,1
+Helen Hayes,P 31226,Drama,10-10-1900,2
+Jean Arthur,P 2459,Comedy,17-10-1900,3
+Agnes Moorehead,P 50390,Comedy,06-12-1900,4
+Katina Paxinou,P 55568,Drama,17-12-1900,5
+Mildred Dunnock,P 20663,Drama,25-01-1901,6
+Clark Gable,P 10097,Drama,01-02-1901,7
+Ed Begley,P 5006,Drama,25-03-1901,8
+Melvyn Douglas,P 19878,Drama,05-04-1901,9
+Gary Cooper,P 14817,Drama,07-05-1901,10
+Vittorio De Sica,P 87213,Drama,07-07-1901,11
+James Dunn,P 20621,Drama,02-11-1901,12
+Lee Strasberg,P 68625,Crime,17-11-1901,13
+Stuart Erwin,P 22072,Comedy,14-02-1902,14
+Flora Robson,P 60865,Drama,28-03-1902,15
+Brian Aherne,P 499,Drama,02-05-1902,16
+Norma Shearer,P 65025,Drama,10-08-1902,17
+John Houseman,P 94949,Drama,22-09-1902,18
+Elsa Lanchester,P 40228,Comedy,28-10-1902,19
+Ralph Richardson,P 60087,Drama,19-12-1902,20
+Bing Crosby,P 15874,Comedy,03-05-1903,21
+Anne Revere,P 59718,Drama,25-06-1903,22
+Chill Wills,P 76661,Western,18-07-1903,23
+Claudette Colbert,P 14003,Drama,13-09-1903,24
+Dean Jagger,P 35003,Drama,07-11-1903,25
+Jack Oakie,P 53725,Comedy,12-11-1903,26
+Una Merkel,P 48558,Comedy,10-12-1903,27
+Cary Grant,P 28204,Comedy,18-01-1904,28
+John Gielgud,P 26803,Drama,14-04-1904,29
+Robert Montgomery,P103333,Drama,21-05-1904,30
+Ralph Bellamy,P 5165,Drama,17-06-1904,31
+Gladys George,P 26459,Drama,13-09-1904,32
+Greer Garson,P 26066,Drama,29-09-1904,33
+Ray Milland,P102824,Drama,03-01-1905,34
+Thelma Ritter,P 60402,Comedy,14-02-1905,35
+Robert Donat,P 19618,Drama,18-03-1905,36
+Henry Fonda,P 24097,Drama,16-05-1905,37
+Mildred Natwick,P 51957,Comedy,19-06-1905,38
+Thomas Gomez,P 27572,Drama,10-07-1905,39
+William Gargan,P 25942,Drama,17-07-1905,40
+Leo Genn,P 26399,Drama,09-08-1905,41
+Greta Garbo,P 25821,Drama,18-09-1905,42
+Mischa Auer,P 2817,Comedy,17-11-1905,43
+William Bendix,P 5281,Drama,04-01-1906,44
+Eddie Albert,P 669,Comedy,22-04-1906,45
+Mary Astor,P 2657,Drama,03-05-1906,46
+George Sanders,P 62948,Drama,03-07-1906,47
+John Huston,P 95260,Drama,05-08-1906,48
+Joan Blondell,P 6812,Comedy,30-08-1906,49
+Janet Gaynor,P 26244,Drama,06-10-1906,50
+Hermione Baddeley,P 3187,Comedy,13-11-1906,51
+Alexander Knox,P 38853,Drama,16-01-1907,52
+Katharine Hepburn,P 31873,Drama,12-05-1907,53
+Sir Laurence Olivier,P105057,Drama,22-05-1907,54
+Laurence Olivier,P105057,Drama,22-05-1907,55
+John Wayne,P116130,Western,26-05-1907,56
+Jack Albertson,P 695,Comedy,16-06-1907,57
+Barbara Stanwyck,P 67643,Drama,16-07-1907,58
+Burgess Meredith,P102566,Drama,16-11-1907,59
+Peggy Ashcroft,P 2516,Drama,22-12-1907,60
+John Mills,P102933,Drama,22-02-1908,61
+Rex Harrison,P 30718,Drama,05-03-1908,62
+Anna Magnani,P100751,Drama,07-03-1908,63
+Michael Redgrave,P 59205,Drama,20-03-1908,64
+Joan Crawford,P 15681,Drama,23-03-1908,65
+Arthur O'Connell,P 53319,Drama,29-03-1908,66
+Bette Davis,P 17295,Drama,05-04-1908,67
+Eve Arden,P 2128,Comedy,30-04-1908,68
+James Stewart,P 68236,Drama,20-05-1908,69
+Robert Morley,P 50731,Comedy,26-05-1908,70
+Don Ameche,P 1323,Comedy,31-05-1908,71
+Rosalind Russell,P 62246,Comedy,04-06-1908,72
+Jack Gilford,P 26814,Comedy,25-07-1908,73
+Tom Tully,P 72091,Drama,21-08-1908,74
+Carole Lombard,P 43021,Comedy,06-10-1908,75
+Celia Johnson,P 35792,Drama,18-12-1908,76
+Lew Ayres,P 3047,Drama,28-12-1908,77
+Ann Sothern,P 66971,Comedy,22-01-1909,78
+Josephine Hull,P 33882,Comedy,27-02-1909,79
+Patricia Collinge,P 14195,Drama,07-03-1909,80
+John Marley,P 45621,Drama,22-03-1909,81
+Juanita Moore,P 50324,Drama,29-03-1909,82
+Lila Kedrova,P 37296,Drama,02-04-1909,83
+John Dall,P 16661,Drama,02-04-1909,84
+Jocelyne Lagarde,P 39998,Drama,07-04-1909,85
+Rupert Crosse,P 15924,Adventure,11-04-1909,86
+Maggie McNamara,P 47955,Drama,12-04-1909,87
+Anne Ramsey,P 58676,Drama,13-04-1909,88
+Adolph Caesar,P 10141,Adventure,18-04-1909,89
+Ronee Blakley,P 6463,Drama,30-04-1909,90
+Leslie Browne,P 9074,Drama,12-05-1909,91
+James Mason,P101610,Drama,15-05-1909,92
+Jessica Tandy,P 69780,Drama,07-06-1909,93
+Burl Ives,P 34703,Drama,14-06-1909,94
+Barbara O'Neil,P 53572,Drama,10-07-1909,95
+Miliza Korjus,P 39118,Drama,18-08-1909,96
+Robert Ryan,P128119,Drama,11-11-1909,97
+Luise Rainer,P 58527,Drama,12-01-1910,98
+David Niven,P 52791,Comedy,01-03-1910,99
+Claire Trevor,P 71758,Drama,08-03-1910,100
+Paulette Goddard,P 27336,Comedy,03-06-1910,101
+Gloria Stuart,P 68812,Drama,04-07-1910,102
+Sylvia Sidney,P 65554,Drama,08-08-1910,103
+Van Heflin,P 31516,Drama,13-12-1910,104
+Arthur Hunnicutt,P 33950,Western,17-02-1911,105
+Margaret Sullavan,P 68972,Drama,16-05-1911,106
+Ellen Corby,P 14941,Drama,13-06-1911,107
+Ginger Rogers,P 61099,Comedy,16-07-1911,108
+Hume Cronyn,P 15864,Drama,18-07-1911,109
+Ruth Hussey,P 34127,Drama,30-10-1911,110
+Lee J. Cobb,P 13814,Drama,09-12-1911,111
+Broderick Crawford,P 15668,Drama,09-12-1911,112
+Jos_ Ferrer,P 89648,Drama,08-01-1912,113
+Karl Malden,P 44670,Drama,22-03-1912,114
+Hugh Griffith,P 28839,Comedy,30-05-1912,115
+Wendy Hiller,P 32374,Drama,15-08-1912,116
+Gene Kelly,P 97107,Musical,23-08-1912,117
+Martha Scott,P 64115,Drama,22-09-1912,118
+Cornel Wilde,P116764,Adventure,13-10-1912,119
+Loretta Young,P 78190,Drama,16-01-1913,120
+John Garfield,P187968,Drama,04-03-1913,121
+Anthony Quayle,P 58189,Drama,07-09-1913,122
+Burt Lancaster,P 98588,Drama,02-11-1913,123
+Gig Young,P 78166,Drama,04-11-1913,124
+Vivien Leigh,P 41659,Drama,05-11-1913,125
+Robert Strauss,P 68664,Comedy,08-11-1913,126
+Harold Russell,P 62220,Drama,14-01-1914,127
+John Ireland,P 95497,Drama,30-01-1914,128
+Kevin McCarthy,P101959,Drama,15-02-1914,129
+Arthur Kennedy,P 97175,Drama,17-02-1914,130
+Alec Guinness,P 29203,Comedy,02-04-1914,131
+Beatrice Straight,P 68592,Drama,02-08-1914,132
+Andrea Leeds,P 41546,Drama,18-08-1914,133
+Kay Medford,P 48176,Comedy,14-09-1914,134
+Geraldine Fitzgerald,P 23694,Drama,24-11-1914,135
+Larry Parks,P 55166,Musical,13-12-1914,136
+Richard Widmark,P 76135,Drama,26-12-1914,137
+Anthony Quinn,P107297,Drama,21-04-1915,138
+Orson Welles,P116368,Drama,06-05-1915,139
+Ingrid Bergman,P 5652,Drama,29-08-1915,140
+Edmond O'Brien,P 53260,Drama,10-09-1915,141
+Joyce Redman,P 59214,Drama,09-12-1915,142
+Frank Sinatra,P111632,Music [nf],12-12-1915,143
+Jackie Gleason,P 27204,Comedy,26-02-1916,144
+Mercedes McCambridge,P 46916,Drama,16-03-1916,145
+Gregory Peck,P 55747,Drama,05-04-1916,146
+Dorothy McGuire,P 47552,Drama,14-06-1916,147
+Olivia de Havilland,P 17765,Drama,01-07-1916,148
+Peter Finch,P 23460,Drama,28-09-1916,149
+Trevor Howard,P 33529,Drama,29-09-1916,150
+Kirk Douglas,P 88133,Drama,09-12-1916,151
+Jane Wyman,P 77721,Comedy,05-01-1917,152
+Ernest Borgnine,P 7448,Drama,24-01-1917,153
+Celeste Holm,P 32955,Comedy,29-04-1917,154
+Robert Mitchum,P 49738,Drama,06-08-1917,155
+Joan Fontaine,P 24127,Drama,22-10-1917,156
+Dan Dailey,P 16585,Musical,14-12-1917,157
+William Holden,P 32805,Drama,17-04-1918,158
+Anne Shirley,P 65375,Drama,17-04-1918,159
+Robert Preston,P 57736,Drama,08-06-1918,160
+Ben Johnson,P 35776,Western,13-06-1918,161
+Susan Hayward,P 31331,Drama,30-06-1918,162
+Teresa Wright,P 77640,Drama,27-10-1918,163
+Art Carney,P 11090,Comedy,04-11-1918,164
+Jeff Chandler,P 12238,Drama,05-12-1918,165
+Robert Stack,P 67453,Drama,13-01-1919,166
+Red Buttons,P 9969,Drama,05-02-1919,167
+Jack Palance,P 54755,Drama,18-02-1919,168
+Jennifer Jones,P 36139,Drama,02-03-1919,169
+Eileen Heckart,P 31473,Drama,29-03-1919,170
+Dan O'Herlihy,P 53487,Drama,01-05-1919,171
+Richard Todd,P114276,Drama,11-06-1919,172
+Martin Balsam,P 3629,Drama,04-11-1919,173
+Jo Van Fleet,P 23839,Drama,30-12-1919,174
+Vincent Gardenia,P 25883,Comedy,07-01-1920,175
+Peggy Lee,P 99164,Music [nf],26-05-1920,176
+Yul Brynner,P 9264,Drama,11-07-1920,177
+Beah Richards,P 60007,Drama,12-07-1920,178
+Shelley Winters,P 77029,Drama,18-08-1920,179
+Richard Farnsworth,P 22732,Drama,01-09-1920,180
+Jack Warden,P 74681,Comedy,18-09-1920,181
+Mickey Rooney,P108826,Comedy,23-09-1920,182
+Walter Matthau,P 46456,Comedy,01-10-1920,183
+Montgomery Clift,P 13682,Drama,17-10-1920,184
+Gene Tierney,P 70970,Drama,19-11-1920,185
+Joe Mantell,P 45199,Drama,21-12-1920,186
+Donna Reed,P 59251,Drama,27-01-1921,187
+Carol Channing,P 12301,Comedy,31-01-1921,188
+Lana Turner,P 72175,Drama,08-02-1921,189
+Simone Signoret,P 65603,Drama,25-03-1921,190
+Nancy Kelly,P 97117,Drama,25-03-1921,191
+Jan Sterling,P 68035,Drama,03-04-1921,192
+Peter Ustinov,P114937,Comedy,16-04-1921,193
+Judy Holliday,P 32908,Comedy,21-06-1921,194
+Susan Peters,P 56305,Drama,03-07-1921,195
+Deborah Kerr,P 37896,Drama,30-09-1921,196
+James Whitmore,P 76027,Drama,01-10-1921,197
+Paul Scofield,P 64000,Drama,21-01-1922,198
+Margaret Leighton,P 41693,Drama,26-02-1922,199
+Jack Kruschen,P 39495,Comedy,20-03-1922,200
+Denholm Elliott,P 21589,Drama,31-05-1922,201
+Judy Garland,P 25962,Musical,10-06-1922,202
+Eleanor Parker,P 55087,Drama,26-06-1922,203
+Jason Robards,P 35299,Drama,26-07-1922,204
+Grayson Hall,P 1999412,,18-09-1922,205
+Barbara Bel Geddes,P 5048,Drama,31-10-1922,206
+Dorothy Dandridge,P 16799,Drama,09-11-1922,207
+Kim Hunter,P 34023,Drama,12-11-1922,208
+Oskar Werner,P 75563,Drama,13-11-1922,209
+Ava Gardner,P 25893,Drama,24-12-1922,210
+Bonita Granville,P 28270,Drama,02-02-1923,211
+Dexter Gordon,P 92097,Music [nf],27-02-1923,212
+Charles Durning,P 20780,Comedy,28-02-1923,213
+Anne Baxter,P 4663,Drama,07-05-1923,214
+Jean Hagen,P 29551,Drama,03-08-1923,215
+Marcello Mastroianni,P 46339,Drama,28-09-1923,216
+Glynis Johns,P 96142,Drama,05-10-1923,217
+Melina Mercouri,P 48509,Drama,18-10-1923,218
+Gloria Grahame,P 28125,Drama,28-11-1923,219
+Betsy Blair,P 6520,Drama,11-12-1923,220
+Ron Moody,P 50234,Comedy,08-01-1924,221
+Katy Jurado,P 36544,Drama,16-01-1924,222
+Telly Savalas,P109992,Drama,21-01-1924,223
+Lee Marvin,P 46149,Drama,19-02-1924,224
+Marlon Brando,P 8070,Drama,03-04-1924,225
+Doris Day,P 17533,Comedy,03-04-1924,226
+Nina Foch,P 24043,Drama,20-04-1924,227
+Theodore Bikel,P 6169,Drama,02-05-1924,228
+Peggy Cass,P 11618,Drama,21-05-1924,229
+Eva Marie Saint,P 62641,Drama,04-07-1924,230
+Martha Hyer,P 34234,Drama,10-08-1924,231
+Lauren Bacall,P 3116,Drama,16-09-1924,232
+Charlton Heston,P 94233,History [nf],04-10-1924,233
+Ruby Dee,P 18243,Drama,27-10-1924,234
+Geraldine Page,P 54660,Drama,22-11-1924,235
+Valentina Cortese,P 15148,Drama,01-01-1925,236
+Paul Newman,P104390,Drama,26-01-1925,237
+Dorothy Malone,P 44892,Drama,30-01-1925,238
+Jack Lemmon,P 99306,Comedy,08-02-1925,239
+Kim Stanley,P 67600,Drama,11-02-1925,240
+Hal Holbrook,P 32790,Drama,17-02-1925,241
+George Kennedy,P 37705,Drama,18-02-1925,242
+Rod Steiger,P 67882,Drama,14-04-1925,243
+Colette Marchand,P 45323,Drama,29-04-1925,244
+Jeanne Crain,P 15581,Drama,25-05-1925,245
+Tony Curtis,P 86429,Drama,03-06-1925,246
+Maureen Stapleton,P 67653,Drama,21-06-1925,247
+Cara Williams,P 76395,Drama,29-06-1925,248
+Peter Sellers,P 64447,Comedy,08-09-1925,249
+Cliff Robertson,P108502,Drama,09-09-1925,250
+Angela Lansbury,P 40519,Drama,16-10-1925,251
+Richard Burton,P 83664,Drama,10-11-1925,252
+Rock Hudson,P 33748,Drama,17-11-1925,253
+Julie Harris,P212209,Drama,02-12-1925,254
+Patricia Neal,P 52027,Drama,20-01-1926,255
+Joan Lorring,P 43159,Drama,17-04-1926,256
+Cloris Leachman,P 41211,Comedy,30-04-1926,257
+Frank Finlay,P 23510,Drama,06-08-1926,258
+Richard Jaeckel,P 34973,Drama,10-10-1926,259
+Sidney Poitier,P106725,Drama,20-02-1927,260
+Emmanuelle Riva,P 60411,Drama,24-02-1927,261
+Janet Leigh,P 41670,Drama,06-07-1927,262
+Robert Shaw,P111051,Drama,09-08-1927,263
+Peter Falk,P 22575,Mystery,16-09-1927,264
+Rachel Roberts,P 60655,Drama,20-09-1927,265
+George C. Scott,P110557,Drama,18-10-1927,266
+Lee Grant,P 92333,Drama,31-10-1927,267
+Estelle Parsons,P 55233,Comedy,20-11-1927,268
+Stuart Whitman,P 76023,Drama,01-02-1928,269
+James Garner,P 25985,Drama,07-04-1928,270
+Ian Bannen,P 3742,Drama,29-06-1928,271
+Nancy Olson,P 54075,Drama,14-07-1928,272
+Ann Blyth,P 6922,Drama,16-08-1928,273
+James Coburn,P195536,Western,31-08-1928,274
+William Hickey,P 32157,Comedy,19-09-1928,275
+Laurence Harvey,P 93645,Drama,01-10-1928,276
+Anthony Franciosa,P 24663,Drama,28-10-1928,277
+Terry Moore,P103400,Drama,07-01-1929,278
+Jean Simmons,P 65749,Drama,31-01-1929,279
+Miyoshi Umeki,P 72422,Romance,03-04-1929,280
+Nigel Hawthorne,P 31147,Drama,05-04-1929,281
+Max von Sydow,P 69424,Drama,10-04-1929,282
+Audrey Hepburn,P 31869,Comedy,04-05-1929,283
+Vivien Merchant,P 48496,Drama,22-07-1929,284
+Don Murray,P103863,Drama,31-07-1929,285
+Fernanda Montenegro,P122586,Drama,16-10-1929,286
+Joan Plowright,P 57101,Drama,28-10-1929,287
+Grace Kelly,P 37518,Romance,12-11-1929,288
+John Cassavetes,P 84410,Drama,09-12-1929,289
+Christopher Plummer,P 57110,Drama,13-12-1929,290
+Robert Loggia,P 42988,Drama,03-01-1930,291
+Gene Hackman,P 29486,Drama,30-01-1930,292
+Lynn Carlin,P 10953,Drama,31-01-1930,293
+Joanne Woodward,P117305,Drama,27-02-1930,294
+James Coco,P 13873,Comedy,21-03-1930,295
+Steve McQueen,P 48038,Drama,24-03-1930,296
+Carolyn Jones,P 36060,Drama,28-04-1930,297
+Clint Eastwood,P 88601,Drama,31-05-1930,298
+Gena Rowlands,P 61889,Drama,19-06-1930,299
+Sean Connery,P 10646,Action,25-08-1930,300
+Rosemary Harris,P 30676,Drama,19-09-1930,301
+Richard Harris,P 93538,Drama,01-10-1930,302
+Maximilian Schell,P110140,Drama,08-12-1930,303
+Armin Mueller-Stahl,P 51163,Drama,17-12-1930,304
+Robert Duvall,P 88530,Drama,05-01-1931,305
+James Earl Jones,P 36131,Drama,17-01-1931,306
+Rip Torn,P114388,Drama,06-02-1931,307
+James Dean,P 18134,Drama,08-02-1931,308
+Barbara Barrie,P 4184,Drama,23-05-1931,309
+Carroll Baker,P 3377,Drama,28-05-1931,310
+Olympia Dukakis,P 20452,Drama,20-06-1931,311
+Martin Landau,P 40247,Spy Film,20-06-1931,312
+Leslie Caron,P 11131,Drama,01-07-1931,313
+Nick Adams,P 308,Drama,10-07-1931,314
+Ian Holm,P 32962,Drama,12-09-1931,315
+Anne Bancroft,P 80576,Drama,17-09-1931,316
+Hope Lange,P 40445,Drama,28-11-1931,317
+Rita Moreno,P 50535,Drama,11-12-1931,318
+Piper Laurie,P 40813,Drama,22-01-1932,319
+Elizabeth Taylor,P 70015,Drama,27-02-1932,320
+Debbie Reynolds,P 59782,Comedy,01-04-1932,321
+Anthony Perkins,P106120,Drama,04-04-1932,322
+Omar Sharif,P 64847,Drama,10-04-1932,323
+Joel Grey,P 28728,Drama,11-04-1932,324
+Anouk Aimee,P 534,Drama,27-04-1932,325
+Marisa Pavan,P 55534,Drama,19-06-1932,326
+Noriyuki 'Pat' Morita,P 50707,Comedy,28-06-1932,327
+Peter O'Toole,P 53681,Drama,02-08-1932,328
+Eileen Brennan,P 8300,Comedy,03-09-1932,329
+Sylvia Miles,P 49125,Comedy,09-09-1932,330
+Roy Scheider,P 63580,Drama,10-11-1932,331
+Robert Vaughn,P 73149,Action,22-11-1932,332
+Ellen Burstyn,P 9777,Drama,07-12-1932,333
+Mary Ure,P 72480,Drama,18-02-1933,334
+Michael Caine,P 10198,Thriller,14-03-1933,335
+Gene Wilder,P116771,Comedy,11-06-1933,336
+Danny Aiello,P 421,Comedy,20-06-1933,337
+Richard Castellano,P 11706,Crime,04-09-1933,338
+Diane Cilento,P 13205,Drama,05-10-1933,339
+Daniel Massey,P 46290,Drama,10-10-1933,340
+Mako,P 44765,Action,10-12-1933,341
+Cicely Tyson,P 72317,Drama,19-12-1933,342
+George Segal,P 64316,Children's/Family,13-02-1934,343
+Alan Bates,P 4517,Drama,17-02-1934,344
+Joan Hackett,P 29476,Drama,01-03-1934,345
+Alan Arkin,P 79913,Comedy,26-03-1934,346
+Shirley Jones,P 36222,Comedy,31-03-1934,347
+Shirley MacLaine,P 44255,Comedy,24-04-1934,348
+Louise Fletcher,P 23906,Drama,22-07-1934,349
+George Chakiris,P 12080,Drama,16-09-1934,350
+Sophia Loren,P 43272,Comedy,20-09-1934,351
+Michael Dunn,P 20627,Drama,20-10-1934,352
+Judi Dench,P 18570,Children's/Family,09-12-1934,353
+Maggie Smith,P 66495,Comedy,28-12-1934,354
+Russ Tamblyn,P 69732,Comedy,30-12-1934,355
+Seymour Cassel,P 11636,Drama,22-01-1935,356
+Judd Hirsch,P 32513,Drama,15-03-1935,357
+Dudley Moore,P103371,Comedy,19-04-1935,358
+Diahann Carroll,P 11302,Drama,17-07-1935,359
+Barbara Harris,P 30591,Comedy,25-07-1935,360
+Topol,P 71360,Drama,09-09-1935,361
+Julie Andrews,P 1721,Comedy,01-10-1935,362
+Diane Ladd,P 39955,Drama,29-11-1935,363
+Woody Allen,P 79388,Comedy,01-12-1935,364
+Lee Remick,P 59559,Drama,14-12-1935,365
+Alan Alda,P 79264,Comedy,28-01-1936,366
+Burt Reynolds,P108069,Comedy,11-02-1936,367
+Dean Stockwell,P 68385,Drama,05-03-1936,368
+Norma Aleandro,P 775,Drama,02-05-1936,369
+Glenda Jackson,P 34812,Drama,09-05-1936,370
+Albert Finney,P 23545,Drama,09-05-1936,371
+Bobby Darin,P 17011,Music [nf],14-05-1936,372
+Dennis Hopper,P 94825,Drama,17-05-1936,373
+"Louis Gossett, Jr.",P 27923,Drama,27-05-1936,374
+Bruce Dern,P 18703,Drama,04-06-1936,375
+Shirley Knight,P 38816,Drama,05-07-1936,376
+Robert Redford,P107758,Drama,18-08-1936,377
+Susan Kohner,P 38970,Drama,11-11-1936,378
+Mary Tyler Moore,P 50344,Comedy,29-12-1936,379
+Dyan Cannon,P 84025,Comedy,04-01-1937,380
+Vanessa Redgrave,P 59206,Drama,30-01-1937,381
+Tom Courtenay,P 15355,Drama,25-02-1937,382
+Warren Beatty,P 81105,Comedy,30-03-1937,383
+Jack Nicholson,P104455,Drama,22-04-1937,384
+Sandy Dennis,P 18627,Drama,27-04-1937,385
+Morgan Freeman,P 90514,Drama,01-06-1937,386
+Sally Kellerman,P 37443,Comedy,02-06-1937,387
+Ned Beatty,P 4810,Drama,06-07-1937,388
+Dustin Hoffman,P 94585,Drama,08-08-1937,389
+Jane Fonda,P 24098,Health & Fitness [nf],21-12-1937,390
+Anthony Hopkins,P 94812,Drama,31-12-1937,391
+Victor Buono,P 9520,Comedy,03-02-1938,392
+Diane Varsi,P 73076,Drama,23-02-1938,393
+Natalie Wood,P 77340,Drama,20-07-1938,394
+Terence Stamp,P 67541,Drama,22-07-1938,395
+Elliott Gould,P 27972,Comedy,29-08-1938,396
+Leonard Frey,P 25060,Comedy,04-09-1938,397
+Liv Ullmann,P114863,Drama,16-12-1938,398
+Frederic Forrest,P 24332,Drama,23-12-1938,399
+Jon Voight,P115561,Drama,29-12-1938,400
+Susannah York,P 78084,Drama,09-01-1939,401
+Sal Mineo,P 49470,Drama,10-01-1939,402
+Janet Suzman,P 69238,Drama,09-02-1939,403
+Samantha Eggar,P 21328,Drama,05-03-1939,404
+Ali MacGraw,P 44193,Drama,01-04-1939,405
+Jason Miller,P102867,Drama,22-04-1939,406
+Harvey Keitel,P 37381,Drama,13-05-1939,407
+Paul Winfield,P 76898,History [nf],22-05-1939,408
+Ian McKellen,P 47684,Drama,25-05-1939,409
+Michael J. Pollard,P 57242,Comedy,30-05-1939,410
+Karen Black,P 82001,Drama,01-07-1939,411
+Lily Tomlin,P114336,Comedy,01-09-1939,412
+Jeannie Berlin,P 81584,Comedy,06-09-1939,413
+Melinda Dillon,P 19211,Drama,13-10-1939,414
+F. Murray Abraham,P 138,Drama,24-10-1939,415
+Jane Alexander,P 831,Drama,28-10-1939,416
+Brenda Vaccaro,P 72539,Drama,18-11-1939,417
+Frank Langella,P 40453,Drama,01-01-1940,418
+Margaret Avery,P 2955,Drama,20-01-1940,419
+John Hurt,P 34099,Drama,22-01-1940,420
+James Cromwell,P 15842,Drama,27-01-1940,421
+Katharine Ross,P 61632,Drama,29-01-1940,422
+Peter Fonda,P 90081,Drama,23-02-1940,423
+Haing S. Ngor,P 52508,Drama,22-03-1940,424
+James Caan,P 83766,Drama,26-03-1940,425
+Al Pacino,P 54596,Drama,25-04-1940,426
+Burt Young,P 78134,Drama,30-04-1940,427
+Pauline Collins,P 14262,Drama,03-09-1940,428
+Sam Waterston,P 74941,Drama,15-11-1940,429
+Faye Dunaway,P 20518,Drama,14-01-1941,430
+Nick Nolte,P 52916,Drama,08-02-1941,431
+Julie Christie,P 13030,Drama,14-04-1941,432
+Ryan O'Neal,P 53567,Comedy,20-04-1941,433
+Ann-Margret,P 1846,Comedy,28-04-1941,434
+Michael Lerner,P 41931,Comedy,22-06-1941,435
+Robert Forster,P 90191,Drama,13-07-1941,436
+Tom Conti,P 14627,Drama,22-11-1941,437
+Sarah Miles,P 49123,Drama,31-12-1941,438
+Marsha Mason,P 46247,Comedy,03-04-1942,439
+Brandon De Wilde,P 87261,Drama,09-04-1942,440
+Barbra Streisand,P112652,Music [nf],24-04-1942,441
+Genevieve Bujold,P 9433,Drama,01-07-1942,442
+Harrison Ford,P 24238,Drama,13-07-1942,443
+Giancarlo Giannini,P 91430,Drama,13-07-1942,444
+Chris Sarandon,P 63156,Drama,24-07-1942,445
+Madeline Kahn,P 36650,Comedy,29-09-1942,446
+Bob Hoskins,P 33185,Drama,26-10-1942,447
+Joe Pesci,P 56237,Comedy,09-02-1943,448
+Lynn Redgrave,P 59204,Drama,08-03-1943,449
+Christopher Walken,P 74206,Comedy,31-03-1943,450
+Klaus Maria Brandauer,P 82796,Drama,22-06-1943,451
+Robert De Niro,P 17593,Drama,17-08-1943,452
+Tuesday Weld,P 75377,Drama,27-08-1943,453
+Valerie Perrine,P 56123,Drama,03-09-1943,454
+Catherine Deneuve,P 18574,Drama,22-10-1943,455
+Sam Shepard,P111142,Drama,05-11-1943,456
+Elizabeth Hartman,P 30824,Drama,23-12-1943,457
+Ben Kingsley,P 38383,Drama,31-12-1943,458
+Stockard Channing,P 12304,Drama,13-02-1944,459
+Marie-Christine Barrault,P 4133,Drama,21-03-1944,460
+Diana Ross,P 61607,Music [nf],26-03-1944,461
+Jill Clayburgh,P 13546,Drama,30-04-1944,462
+Gary Busey,P 9844,Drama,29-06-1944,463
+Michael Douglas,P 88134,Drama,25-09-1944,464
+Sally Kirkland,P 38510,Drama,31-10-1944,465
+Teri Garr,P 26007,Comedy,11-12-1944,466
+Pete Postlethwaite,P 57436,Drama,07-02-1945,467
+Brenda Fricker,P 25069,Drama,17-02-1945,468
+Susan Tyrrell,P 72315,Drama,18-03-1945,469
+Linda Hunt,P 33978,History [nf],02-04-1945,470
+Helen Mirren,P 49576,Drama,26-07-1945,471
+Patty McCormack,P 44128,Drama,21-08-1945,472
+John Lithgow,P 42686,Drama,19-10-1945,473
+Goldie Hawn,P 31138,Comedy,21-11-1945,474
+Bette Midler,P102748,Comedy,01-12-1945,475
+Diane Keaton,P 96996,Comedy,05-01-1946,476
+Brenda Blethyn,P 6748,Drama,20-02-1946,477
+Liza Minnelli,P 49495,Music [nf],12-03-1946,478
+Talia Shire,P 65369,Drama,25-04-1946,479
+Candice Bergen,P 5591,Comedy,09-05-1946,480
+Cher,P 12664,Comedy,20-05-1946,481
+Bruce Davison,P 17454,Drama,28-06-1946,482
+Sylvester Stallone,P112464,Drama,06-07-1946,483
+Lesley Ann Warren,P 74788,Drama,16-08-1946,484
+Tommy Lee Jones,P 36238,Drama,15-09-1946,485
+Susan Sarandon,P 63158,Drama,04-10-1946,486
+Carrie Snodgress,P 66677,Drama,27-10-1946,487
+Stephen Rea,P 59079,Drama,31-10-1946,488
+Sally Field,P 89714,Comedy,06-11-1946,489
+Patty Duke,P 2648,Drama,14-12-1946,490
+Edward James Olmos,P105065,Drama,24-02-1947,491
+Glenn Close,P 13725,Drama,19-03-1947,492
+James Woods,P117297,Drama,18-04-1947,493
+Richard Jenkins,P 35464,Drama,04-05-1947,494
+Jacki Weaver,P 75131,Drama,25-05-1947,495
+Sondra Locke,P100009,Drama,28-05-1947,496
+Candy Clark,P 13342,Drama,20-06-1947,497
+Albert Brooks,P 83146,Comedy,22-07-1947,498
+Anne Archer,P 2102,Drama,25-08-1947,499
+Kevin Kline,P 38699,Comedy,24-10-1947,500
+Richard Dreyfuss,P 88268,Drama,29-10-1947,501
+Mikhail Baryshnikov,P 80911,Dance [nf],27-01-1948,502
+Barbara Hershey,P 32030,Drama,05-02-1948,503
+Mercedes Ruehl,P 62063,Comedy,28-02-1948,504
+Penelope Milford,P 49135,Drama,23-03-1948,505
+Dianne Wiest,P 76163,Drama,28-03-1948,506
+Lindsay Crouse,P 15941,Drama,12-05-1948,507
+Kathy Bates,P 4516,Drama,28-06-1948,508
+Jeremy Irons,P 34545,Drama,19-09-1948,509
+Tom Wilkinson,P 76333,Drama,12-12-1948,510
+Samuel L. Jackson,P 34866,Drama,21-12-1948,511
+Gerard Depardieu,P 87517,Drama,27-12-1948,512
+David Strathairn,P 68638,Drama,26-01-1949,513
+Jessica Lange,P 40447,Drama,20-04-1949,514
+Jim Broadbent,P 8575,Drama,24-05-1949,515
+Tom Berenger,P 5539,Thriller,31-05-1949,516
+Meryl Streep,P 68676,Drama,22-06-1949,517
+Sigourney Weaver,P 75144,Comedy,08-10-1949,518
+Jeff Bridges,P 3197,Drama,04-12-1949,519
+Sissy Spacek,P 67043,Drama,25-12-1949,520
+Julie Walters,P 74515,Drama,22-02-1950,521
+William H. Macy,P 44480,Drama,13-03-1950,522
+Brad Dourif,P 19921,Horror,18-03-1950,523
+William Hurt,P 34104,Drama,20-03-1950,524
+Christine Lahti,P 40020,Drama,04-04-1950,525
+Tess Harper,P 30532,Drama,15-08-1950,526
+Amy Madigan,P 44507,Drama,11-09-1950,527
+Bill Murray,P103861,Comedy,21-09-1950,528
+Randy Quaid,P 58162,Comedy,01-10-1950,529
+"Howard E. Rollins, Jr.",P 61237,Drama,17-10-1950,530
+Ed Harris,P 30614,Drama,28-11-1950,531
+Kate Nelligan,P 52151,Drama,16-03-1951,532
+Geoffrey Rush,P151418,Drama,06-07-1951,533
+Anjelica Huston,P 34131,Drama,08-07-1951,534
+Chris Cooper,P 14803,Drama,09-07-1951,535
+Robin Williams,P116900,Comedy,21-07-1951,536
+Massimo Troisi,P 71835,Drama,19-02-1952,537
+Mary McDonnell,P 47297,Drama,28-04-1952,538
+Shohreh Aghdashloo,P130170,Drama,11-05-1952,539
+Chazz Palminteri,P 54860,Drama,15-05-1952,540
+Liam Neeson,P 52070,Drama,07-06-1952,541
+Carol Kane,P 36788,Comedy,18-06-1952,542
+Graham Greene,P199626,Drama,22-06-1952,543
+Dan Aykroyd,P 80282,Comedy,01-07-1952,544
+Mickey Rourke,P 61810,Drama,16-09-1952,545
+Jack Wild,P 76221,Drama,30-09-1952,546
+Mary Badham,P 3201,Drama,07-10-1952,547
+Roberto Benigni,P 81377,Comedy,27-10-1952,548
+Alfre Woodard,P 77363,Drama,08-11-1952,549
+Mary Steenburgen,P 67856,Drama,08-02-1953,550
+Amy Irving,P 34559,Drama,10-09-1953,551
+Peter Firth,P 23592,Drama,27-10-1953,552
+Tom Hulce,P 33864,Drama,06-12-1953,553
+Kim Basinger,P 4427,Drama,08-12-1953,554
+John Malkovich,P 44846,Drama,09-12-1953,555
+Oprah Winfrey,P 76901,Drama,29-01-1954,556
+John Travolta,P 71670,Comedy,18-02-1954,557
+Kathleen Turner,P 72173,Comedy,19-06-1954,558
+David Paymer,P 55587,Comedy,30-08-1954,559
+Lorraine Bracco,P 7886,Drama,02-10-1954,560
+Kathleen Quinlan,P 58258,Drama,19-11-1954,561
+Denzel Washington,P 74843,Drama,28-12-1954,562
+Kevin Costner,P 15189,History [nf],18-01-1955,563
+Gary Sinise,P111667,Drama,17-03-1955,564
+Lena Olin,P 53961,Drama,22-03-1955,565
+Judy Davis,P 17373,Drama,23-04-1955,566
+Michael O'Keefe,P 53494,Drama,24-04-1955,567
+Debra Winger,P 76921,Drama,16-05-1955,568
+Isabelle Adjani,P 374,Drama,27-06-1955,569
+Willem Dafoe,P 16547,Drama,22-07-1955,570
+Billy Bob Thornton,P 70825,Drama,04-08-1955,571
+Diana Scarwid,P 63507,Drama,27-08-1955,572
+Whoopi Goldberg,P 27431,Comedy,13-11-1955,573
+Imelda Staunton,P 67757,Drama,09-01-1956,574
+Geena Davis,P 17342,Comedy,21-01-1956,575
+Adriana Barraza,P475242,Drama,05-03-1956,576
+Andy Garcia,P196022,Drama,12-04-1956,577
+Eric Roberts,P108473,Thriller,18-04-1956,578
+Tom Hanks,P 93341,Comedy,09-07-1956,579
+Joan Allen,P 1026,Drama,20-08-1956,580
+Christoph Waltz,P221135,Drama,04-10-1956,581
+Daniel Day Lewis,P 17559,Drama,29-04-1957,582
+Daniel Day-Lewis,P 17559,Drama,29-04-1957,583
+Frances McDormand,P 47305,Drama,23-06-1957,584
+Melanie Griffith,P 28845,Comedy,09-08-1957,585
+Michael Clarke Duncan,P240637,Children's/Family,10-12-1957,586
+Miranda Richardson,P 60083,Drama,03-03-1958,587
+Sharon Stone,P 68496,Drama,10-03-1958,588
+Holly Hunter,P 34013,Drama,20-03-1958,589
+Gary Oldman,P 53946,Drama,21-03-1958,590
+Alec Baldwin,P 3515,Comedy,03-04-1958,591
+Michelle Pfeiffer,P 56469,Drama,29-04-1958,592
+Annette Bening,P 5346,Drama,29-05-1958,593
+Angela Bassett,P 4466,Drama,16-08-1958,594
+Jennifer Tilly,P 71015,Comedy,16-09-1958,595
+Tim Robbins,P108437,Comedy,16-10-1958,596
+Viggo Mortensen,P 50903,Drama,20-10-1958,597
+Mary Elizabeth Mastrantonio,P 46334,Drama,17-11-1958,598
+Linda Blair,P 6531,Drama,22-01-1959,599
+Catherine Keener,P 37341,Comedy,26-03-1959,600
+Emma Thompson,P 70692,Drama,15-04-1959,601
+Mare Winningham,P 76959,Drama,16-05-1959,602
+Kevin Spacey,P 67045,Drama,26-07-1959,603
+Marcia Gay Harden,P 30312,Drama,14-08-1959,604
+John Hawkes,P 31099,Comedy,11-09-1959,605
+Ken Watanabe,P 74900,Drama,21-10-1959,606
+Patricia Clarkson,P 13504,Drama,29-12-1959,607
+Stanley Tucci,P 72023,Comedy,11-01-1960,608
+Meg Tilly,P 71016,Drama,14-02-1960,609
+Kristin Scott Thomas,P 64027,Drama,24-05-1960,610
+Thomas Haden Church,P195520,Comedy,17-06-1960,611
+Timothy Hutton,P 34188,Drama,16-08-1960,612
+Sean Penn,P106027,Drama,17-08-1960,613
+Colin Firth,P 23590,Drama,10-09-1960,614
+Melissa Leo,P 41835,Drama,14-09-1960,615
+Tilda Swinton,P 69397,Drama,05-11-1960,616
+Cathy Moriarty,P 50679,Drama,29-11-1960,617
+Julianne Moore,P 50325,Drama,03-12-1960,618
+Kenneth Branagh,P 82784,Drama,10-12-1960,619
+Eddie Murphy,P 51440,Comedy,03-04-1961,620
+Catherine Burns,P237276,Comedy,19-04-1961,621
+George Clooney,P 13722,Comedy,06-05-1961,622
+Janet McTeer,P 48071,Drama,08-05-1961,623
+Tim Roth,P 61768,Drama,14-05-1961,624
+Jackie Earle Haley,P 29701,Comedy,14-07-1961,625
+Forest Whitaker,P116578,Drama,15-07-1961,626
+Elizabeth McGovern,P 47478,Drama,18-07-1961,627
+Woody Harrelson,P 30548,Comedy,23-07-1961,628
+Laurence Fishburne,P 23625,Drama,30-07-1961,629
+Mariel Hemingway,P 93989,Comedy,22-11-1961,630
+Tom Cruise,P 86295,Drama,03-07-1962,631
+Joan Cusack,P 16328,Comedy,11-10-1962,632
+Jodie Foster,P 90220,Drama,19-11-1962,633
+Felicity Huffman,P 33774,Drama,09-12-1962,634
+Ralph Fiennes,P 23390,Drama,22-12-1962,635
+Johnny Depp,P 18682,Drama,09-06-1963,636
+Helen Hunt,P 33968,Drama,15-06-1963,637
+Greg Kinnear,P200274,Comedy,17-06-1963,638
+Demi?n Bichir,P132125,Drama,01-08-1963,639
+Virginia Madsen,P 44539,Drama,11-09-1963,640
+Elisabeth Shue,P 65475,Drama,06-10-1963,641
+Tatum O'Neal,P 53569,Drama,05-11-1963,642
+Brad Pitt,P 56988,Drama,18-12-1963,643
+Nicolas Cage,P 10155,Drama,07-01-1964,644
+Laura Linney,P 42589,Drama,05-02-1964,645
+Matt Dillon,P 19210,Drama,18-02-1964,646
+Juliette Binoche,P 6261,Drama,09-03-1964,647
+Russell Crowe,P 15959,Drama,07-04-1964,648
+Djimon Hounsou,P 33391,Drama,24-04-1964,649
+Sandra Bullock,P 9472,Comedy,26-07-1964,650
+Rosie Perez,P106101,Drama,06-09-1964,651
+Clive Owen,P 54491,Drama,03-10-1964,652
+Don Cheadle,P 12587,Drama,29-11-1964,653
+Marisa Tomei,P 71267,Comedy,04-12-1964,654
+Diane Lane,P 40350,Drama,22-01-1965,655
+Robert Downey Jr.,P 19966,Comedy,04-04-1965,656
+John C. Reilly,P 59476,Comedy,24-05-1965,657
+Viola Davis,P321906,Drama,11-08-1965,658
+Marlee Matlin,P 46423,Drama,24-08-1965,659
+Helena Bonham Carter,P 7266,Drama,26-05-1966,660
+Halle Berry,P 5863,Drama,14-08-1966,661
+Salma Hayek,P199082,Drama,02-09-1966,662
+Emily Watson,P221329,Drama,14-01-1967,663
+Laura Dern,P 18704,Drama,10-02-1967,664
+Benicio Del Toro,P 18343,Drama,19-02-1967,665
+Marianne Jean-Baptiste,P 35350,Drama,26-04-1967,666
+Paul Giamatti,P 26680,Comedy,06-06-1967,667
+Nicole Kidman,P 38065,Drama,20-06-1967,668
+Philip Seymour Hoffman,P 32716,Comedy Drama,23-07-1967,669
+Quinn Cummings,P 16154,Drama,13-08-1967,670
+Mira Sorvino,P167475,Drama,28-09-1967,671
+Julia Roberts,P 60634,Comedy,28-10-1967,672
+Mark Ruffalo,P197651,Drama,22-11-1967,673
+Mo'Nique,P276938,Comedy,11-12-1967,674
+Jamie Foxx,P 24604,Comedy,13-12-1967,675
+Sophie Okonedo,P 53909,Drama,01-01-1968,676
+"Cuba Gooding, Jr.",P 27665,Drama,02-01-1968,677
+Josh Brolin,P 8657,Drama,12-02-1968,678
+Jaye Davidson,P 17211,Culture & Society [nf],21-03-1968,679
+Rachel Griffiths,P196152,Drama,04-06-1968,680
+Will Smith,P 66596,Comedy,25-09-1968,681
+Naomi Watts,P 75056,Drama,28-09-1968,682
+Hugh Jackman,P269258,Action,12-10-1968,683
+Javier Bardem,P 3887,Drama,01-03-1969,684
+Terrence Howard,P 33528,Drama,11-03-1969,685
+Ren_e Zellweger,P201027,Comedy,25-04-1969,686
+Cate Blanchett,P215038,Drama,14-05-1969,687
+Edward Norton,P215904,Drama,18-08-1969,688
+Catherine Zeta-Jones,P 36062,Comedy,25-09-1969,689
+Amy Ryan,P264377,Drama,30-11-1969,690
+Minnie Driver,P199950,Drama,31-01-1970,691
+Queen Latifah,P 40714,Comedy,18-03-1970,692
+Uma Thurman,P 70905,Comedy,29-04-1970,693
+Octavia Spencer,P277587,Comedy,25-05-1970,694
+River Phoenix,P 56631,Drama,23-08-1970,695
+Melissa McCarthy,P302725,Comedy,26-08-1970,696
+Taraji P. Henson,P290117,Drama,11-09-1970,697
+Matt Damon,P 16762,Drama,08-10-1970,698
+Ethan Hawke,P 31094,Drama,06-11-1970,699
+Jennifer Connelly,P 14510,Drama,12-12-1970,700
+Jeremy Renner,P199226,Drama,07-01-1971,701
+Rachel Weisz,P216376,Drama,07-03-1971,702
+Justin Henry,P 31829,Drama,25-05-1971,703
+Mark Wahlberg,P198251,Drama,05-06-1971,704
+Winona Ryder,P 62446,Drama,29-10-1971,705
+Jean Dujardin,P359847,Comedy,19-06-1972,706
+Gwyneth Paltrow,P 54871,Drama,28-09-1972,707
+Toni Collette,P 14165,Drama,01-11-1972,708
+Jude Law,P230573,Drama,29-12-1972,709
+Adrien Brody,P 8639,Drama,14-04-1973,710
+Juliette Lewis,P 42230,Drama,21-06-1973,711
+Vera Farmiga,P241678,Drama,06-08-1973,712
+Christian Bale,P 3538,Drama,30-01-1974,713
+Pen_lope Cruz,P186999,Drama,28-04-1974,714
+Hilary Swank,P167442,Drama,30-07-1974,715
+Michael Shannon,P516240,Drama,07-08-1974,716
+Joaquin Phoenix,P199220,Drama,28-10-1974,717
+Leonardo DiCaprio,P 18926,Drama,11-11-1974,718
+Chlo? Sevigny,P230831,Drama,18-11-1974,719
+Bradley Cooper,P292123,Comedy,05-01-1975,720
+Angelina Jolie,P 36009,Drama,04-06-1975,721
+Charlize Theron,P216257,Drama,07-08-1975,722
+Casey Affleck,P121005,Comedy,12-08-1975,723
+Amy Adams,P273224,Comedy,20-08-1975,724
+Michael V. Gazzo,P420383,Music [nf],09-09-1975,725
+Marion Cotillard,P195575,Drama,30-09-1975,726
+Kate Winslet,P198332,Drama,05-10-1975,727
+Reese Witherspoon,P 77086,Comedy,22-03-1976,728
+B_r_nice Bejo,P215010,Comedy,07-07-1976,729
+Jessica Chastain,P470479,Adventure,29-03-1977,730
+Samantha Morton,P230665,Drama,13-05-1977,731
+Maggie Gyllenhaal,P 29409,Drama,16-11-1977,732
+James Franco,P299361,Drama,19-04-1978,733
+Heath Ledger,P268296,Drama,04-04-1979,734
+Kate Hudson,P263367,Comedy,19-04-1979,735
+Michelle Williams,P198320,Drama,09-09-1980,736
+Ryan Gosling,P279096,Drama,12-11-1980,737
+Jake Gyllenhaal,P 29408,Drama,19-12-1980,738
+Rinko Kikuchi,P475244,Drama,06-01-1981,739
+Catalina Sandino Moreno,P385916,Drama,19-04-1981,740
+Natalie Portman,P197461,Drama,09-06-1981,741
+Jennifer Hudson,P454405,Drama,12-09-1981,742
+Anna Paquin,P198605,Drama,24-07-1982,743
+Anne Hathaway,P292630,Drama,12-11-1982,744
+Gabourey Sidibe,P612787,Drama,30-11-1982,745
+Jesse Eisenberg,P311020,Drama,05-10-1983,746
+Jonah Hill,P418718,Comedy,20-12-1983,747
+Keira Knightley,P339282,Drama,26-03-1985,748
+Rooney Mara,P610931,Comedy,17-04-1985,749
+Carey Mulligan,P408443,Drama,28-05-1985,750
+Anna Kendrick,P355250,Comedy Drama,09-08-1985,751
+Ellen Page,P360080,Drama,21-02-1987,752
+Haley Joel Osment,P215938,Comedy,10-04-1988,753
+Keisha Castle-Hughes,P340214,Drama,24-03-1990,754
+Jennifer Lawrence,P562566,Drama,15-08-1990,755
+Saoirse Ronan,P440773,Drama,12-04-1994,756
+Abigail Breslin,P328341,Children's/Family,14-04-1996,757
+Hailee Steinfeld,P651472,Western,11-12-1996,758
+Quvenzhan_ Wallis,P707834,,28-08-2003,759
+Dame May Whitty,P 76079,Drama,1865-06-19 00:00:00,760
+Albert Basserman,P 4462,Drama,1867-09-07 00:00:00,761
+Henry Travers,P 71634,Drama,1874-03-05 00:00:00,762
+Edmund Gwenn,P 29391,Drama,1875-09-26 00:00:00,763
+Maria Ouspenskaya,P 54458,Drama,1876-07-29 00:00:00,764
+H. B. Warner,P 74739,Drama,1876-10-26 00:00:00,765
+Charles Coburn,P 13835,Drama,1877-06-19 00:00:00,766
+Harry Carey,P 10873,Western,1878-01-16 00:00:00,767
+Lucile Watson,P 75004,Comedy,1879-05-27 00:00:00,768
+Ethel Barrymore,P 4290,Drama,1879-08-15 00:00:00,769
+Jane Darwell,P 17083,Drama,1879-10-15 00:00:00,770
+Sydney Greenstreet,P 28591,Drama,1879-12-27 00:00:00,771
+Donald Crisp,P 86224,Drama,1880-07-27 00:00:00,772
+Margaret Wycherly,P 77693,Drama,1881-10-26 00:00:00,773
+James Gleason,P 91735,Comedy,1882-05-23 00:00:00,774
+Walter Huston,P 34142,Drama,1883-04-05 00:00:00,775
+Sara Allgood,P 930,Drama,1883-10-31 00:00:00,776
+Edna May Oliver,P 53979,Comedy,1883-11-09 00:00:00,777
+Billie Burke,P 9595,Comedy,1884-08-07 00:00:00,778
+Erich von Stroheim,P118401,Drama,1885-09-22 00:00:00,779
+Spring Byington,P 10002,Comedy,1886-10-17 00:00:00,780
+Ed Wynn,P 77743,Comedy,1886-11-11 00:00:00,781
+Victor McLaglen,P 47783,Drama,1886-12-10 00:00:00,782
+Paul Lukas,P 43708,Drama,1887-05-26 00:00:00,783
+Roland Young,P 78205,Comedy,1887-11-11 00:00:00,784
+Dame Edith Evans,P 22248,Drama,1888-02-08 00:00:00,785
+Barry Fitzgerald,P 23688,Drama,1888-03-10 00:00:00,786
+James Stephenson,P 68010,Drama,1888-04-14 00:00:00,787
+Beulah Bondi,P 7241,Drama,1888-05-03 00:00:00,788
+Monty Woolley,P 77496,Comedy,1888-08-17 00:00:00,789
+Gladys Cooper,P 14818,Drama,1888-12-18 00:00:00,790
+Brian Donlevy,P 19633,Action,1889-02-09 00:00:00,791
+Charles Chaplin,P 12334,Comedy,1889-04-16 00:00:00,792
+Sessue Hayakawa,P 31162,Drama,1889-06-10 00:00:00,793
+Marjorie Rambeau,P 58605,Drama,1889-07-15 00:00:00,794
+Claude Rains,P 58546,Drama,1889-11-10 00:00:00,795
+Marjorie Main,P 44693,Comedy,1890-02-24 00:00:00,796
+Frank Morgan,P 50579,Drama,1890-06-01 00:00:00,797
+Stanley Holloway,P 32937,Comedy,1890-10-01 00:00:00,798
+Charles Bickford,P 6091,Drama,1891-01-01 00:00:00,799
+Ronald Colman,P 14296,Drama,1891-02-09 00:00:00,800
+Sam Jaffe,P 95767,Drama,1891-03-10 00:00:00,801
+Gene Lockhart,P 42889,Drama,1891-07-18 00:00:00,802
+Michael Chekhov,P 12612,Drama,1891-08-29 00:00:00,803
+Clifton Webb,P 75151,Comedy,1891-11-19 00:00:00,804
+Fay Bainter,P 3331,Drama,1891-12-07 00:00:00,805
+Peggy Wood,P 77341,Comedy,1892-02-09 00:00:00,806
+William Demarest,P 18513,Comedy,1892-02-27 00:00:00,807
+Margaret Rutherford,P 62313,Comedy,1892-05-11 00:00:00,808
+Hattie McDaniel,P 30998,Comedy,1892-06-10 00:00:00,809
+Basil Rathbone,P 58888,Drama,1892-06-13 00:00:00,810
+Thomas Mitchell,P103093,Drama,1892-07-11 00:00:00,811
+William Powell,P 57536,Drama,1892-07-29 00:00:00,812
+Alice Brady,P 7987,Comedy,1892-11-02 00:00:00,813
+Leslie Howard,P 94979,Drama,1893-04-24 00:00:00,814
+Cecil Kellaway,P 37418,Comedy,1893-08-22 00:00:00,815
+Lillian Gish,P 27129,Drama,1893-10-14 00:00:00,816
+Walter Brennan,P 8313,Western,1894-07-25 00:00:00,817
+Louis Calhern,P 10266,Drama,1895-02-16 00:00:00,818
+Paul Muni,P 51322,Drama,1895-09-22 00:00:00,819
+George Burns,P 9701,Comedy,1896-01-20 00:00:00,820
+Joseph Schildkraut,P 63650,Drama,1896-03-22 00:00:00,821
+Raymond Massey,P 46298,Drama,1896-08-30 00:00:00,822
+Ruth Gordon,P 92118,Comedy,1896-10-30 00:00:00,823
+Ethel Waters,P 74929,Musical,1896-10-31 00:00:00,824
+Lilia Skala,P 66067,Drama,1896-11-28 00:00:00,825
+J. Carrol Naish,P 51742,Drama,1897-01-21 00:00:00,826
+Gloria Swanson,P 69293,Drama,1897-03-27 00:00:00,827
+Fredric March,P 45310,Drama,1897-08-31 00:00:00,828
+Hope Emerson,P 21786,Comedy,1897-10-27 00:00:00,829
+Judith Anderson,P 1508,Drama,1898-02-10 00:00:00,830
+Lee Tracy,P 71575,Drama,1898-04-14 00:00:00,831
+Oscar Homolka,P 33090,Drama,1898-08-12 00:00:00,832
+Shirley Booth,P 7386,Drama,1898-08-30 00:00:00,833
+Walter Pidgeon,P 56729,Drama,1898-09-23 00:00:00,834
+Lotte Lenya,P 41824,Drama,1898-10-18 00:00:00,835
+Irene Dunne,P 20649,Drama,1898-12-20 00:00:00,836
+Eva Le Gallienne,P 41093,Drama,1899-01-11 00:00:00,837
+Gale Sondergaard,P 66879,Drama,1899-02-15 00:00:00,838
+Aline MacMahon,P 44282,Drama,1899-05-03 00:00:00,839
+Fred Astaire,P 80113,Musical,1899-05-10 00:00:00,840
+Charles Laughton,P 98862,Drama,1899-07-01 00:00:00,841
+James Cagney,P 10165,Drama,1899-07-17 00:00:00,842
+Chief Dan George,P207556,Drama,1899-07-24 00:00:00,843
+Charles Boyer,P 7830,Drama,1899-08-28 00:00:00,844
+Ida Kaminska,P 36748,Drama,1899-09-04 00:00:00,845
+Akim Tamiroff,P 69745,Drama,1899-10-29 00:00:00,846
+Humphrey Bogart,P 7027,Drama,1899-12-25 00:00:00,847

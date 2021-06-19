@@ -1,0 +1,201 @@
+id,employeename,jobtitle,basepay,overtimepay,otherpay,benefits,totalpay,totalpaybenefits,year,notes,agency,status
+120566,Teresa L Cavanaugh,EMT/Paramedic/Firefighter,100952.41,0,4254.88,34317.37,105207.29,139524.66,2014,,San Francisco,PT
+72002,Ray Torres,Public Service Trainee,1121.28,0,0,185.77,1121.28,1307.05,2012,,San Francisco,
+122662,Rizaldy T Tabada,Deputy Sheriff,92403.77,138.18,2903.94,33625.27,95445.89,129071.16,2014,,San Francisco,FT
+140133,Gregory B Bovo,Firefighter,23757.5,0,0,9982.21,23757.5,33739.71,2014,,San Francisco,PT
+87502,Jason L Landivar,EMT/Paramedic/Firefighter,82115.61,666.79,5220.34,28933.91,88002.74,116936.65,2013,,San Francisco,
+71770,Fernando Barajas,Public Svc Aide-Public Works,1585.6,0,0,178.07,1585.6,1763.67,2012,,San Francisco,
+144682,George Fudge,Transit Operator,4390.15,1059.31,12.11,2846.74,5461.57,8308.31,2014,,San Francisco,PT
+148136,Jose F Granados,Public Svc Aide-Public Works,661.2,0,0,6.61,661.2,667.81,2014,,San Francisco,PT
+72175,Linda Pizzorno,Registered Nurse,0,0,795.01,230.64,795.01,1025.65,2012,,San Francisco,
+110316,Sophia Wu,Public Service Trainee,295.41,0,0,2.95,295.41,298.36,2013,,San Francisco,
+110441,Maria E Zuniga,Transit Operator,,0,114.54,0,114.54,114.54,2013,,San Francisco,
+57726,Sara Paredes,Registered Nurse,65061.57,0,975,23477.4,66036.57,89513.97,2012,,San Francisco,
+135711,Adina M Diamond,Registered Nurse,52901.45,3307.79,2286.95,19383.18,58496.19,77879.37,2014,,San Francisco,PT
+139629,Terry L Johnson,Transit Operator,21183.22,3841.15,510.61,13384.77,25534.98,38919.75,2014,,San Francisco,PT
+64401,Sherry Mahoney,EMT/Paramedic/Firefighter,29579,0,2402.7,11785.19,31981.7,43766.89,2012,,San Francisco,
+148022,Kari A Johnson,Firefighter,688.71,0,0,143.39,688.71,832.1,2014,,San Francisco,PT
+114356,Joseph M Salazar,Sergeant 3,124770.09,14167.98,7510.15,40182.2,146448.22,186630.42,2014,,San Francisco,FT
+104037,Annette Kess,Transit Operator,,0,11808,7959.18,11808,19767.18,2013,,San Francisco,
+71779,Ayala Mirande,Special Nurse,367.73,942.38,44.11,388.96,1354.22,1743.18,2012,,San Francisco,
+143075,George L Abrams Jr,Transit Operator,7316.62,1622.58,30.95,4742.85,8970.15,13713,2014,,San Francisco,PT
+64411,Seaborn Chiles,EMT/Paramedic/Firefighter,29579,551.46,1626.46,11871.64,31756.92,43628.56,2012,,San Francisco,
+69659,Gwen Ferdinand,Transit Operator,4506.51,391.87,46.56,2806.53,4944.94,7751.47,2012,,San Francisco,
+144573,Robert E Lee Jr,Transit Operator,4390.16,1258.02,9.08,2847.85,5657.26,8505.11,2014,,San Francisco,PT
+72720,Andre Thomas,Public Svc Aide-Public Works,155.85,0,2.44,13.84,158.29,172.13,2012,,San Francisco,
+60447,James Lockhart,EMT/Paramedic/Firefighter,58842,0,3801.37,17031.18,62643.37,79674.55,2012,,San Francisco,
+148014,Eric J Chen,Public Service Trainee,800.13,0,35.66,8.35,835.79,844.14,2014,,San Francisco,PT
+109041,Paul J Ortiz,Special Nurse,1768.55,0,243.6,451.01,2012.15,2463.16,2013,,San Francisco,
+142145,Victor N Yeung,Transit Operator,11889.93,0,0,6285.35,11889.93,18175.28,2014,,San Francisco,PT
+39463,Steven Stocker,Sergeant 3,135977.79,1044,12934.3,36523.7,149956.09,186479.79,2012,,San Francisco,
+46861,Theresa Courtney,Deputy Sheriff,88374,3897.86,6778.32,34097.49,99050.18,133147.67,2012,,San Francisco,
+83706,Donald V Ortiz,Deputy Sheriff,95126.53,57.21,6787.65,33016.42,101971.39,134987.81,2013,,San Francisco,
+108749,Vivian A Showers,Transit Operator,2056.09,0,0,982.35,2056.09,3038.44,2013,,San Francisco,
+108321,Lenora Hamilton,Transit Operator,2529.28,0,0,1464.59,2529.28,3993.87,2013,,San Francisco,
+125043,Ryan J Jamison,EMT/Paramedic/Firefighter,81789.51,1750.43,2791.35,31039.42,86331.29,117370.71,2014,,San Francisco,FT
+102647,Alvin Sosa,Transit Operator,19331.12,484.95,460.37,11349.44,20276.44,31625.88,2013,,San Francisco,
+71309,Ernanie Rasquero,Special Nurse,1831.8,0,61.06,847.08,1892.86,2739.94,2012,,San Francisco,
+144513,Ben D Malone,Transit Operator,381.69,0,8103.54,196.19,8485.23,8681.42,2014,,San Francisco,PT
+67873,Niem Tran,Transit Operator,8975.38,162.14,51.1,5794.22,9188.62,14982.84,2012,,San Francisco,
+66561,Nicole Freeney,Transit Operator,9877.98,2607.74,3446.78,6295.89,15932.5,22228.39,2012,,San Francisco,
+47109,Stephen Kendall,Deputy Sheriff,81967.01,8984.59,6725.08,34177.42,97676.68,131854.1,2012,,San Francisco,
+109107,Elizabeth J Dayrit,Special Nurse,1783.94,0,178.39,371.87,1962.33,2334.2,2013,,San Francisco,
+125930,Andrew G Chen,Estate Investigator,82052.03,0,0,31796.98,82052.03,113849.01,2014,,San Francisco,FT
+143254,Larry J Davis,Transit Operator,813.86,0,11803.87,418.32,12617.73,13036.05,2014,,San Francisco,PT
+39456,Melonee Alvarez,Sergeant 3,135977.71,5929.86,6457.7,38170.25,148365.27,186535.52,2012,,San Francisco,
+102938,Pelzie L Smith,Transit Operator,17563.25,490.1,121.01,10229.59,18174.36,28403.95,2013,,San Francisco,
+56967,Denise Alexander,Estate Investigator,61663.37,0,187.2,30295.13,61850.57,92145.7,2012,,San Francisco,
+71790,David Fleming,Special Nurse,1294.4,0,63.5,371.94,1357.9,1729.84,2012,,San Francisco,
+105663,Brian E Oconnor,Deputy Sheriff,10433.32,0,742.59,0,11175.91,11175.91,2013,,San Francisco,
+109201,Jesus J Aromin,Public Svc Aide-Public Works,2123.47,0,0,21.23,2123.47,2144.7,2013,,San Francisco,
+68610,Liane Angus,Registered Nurse,9456.38,0,0,2042.66,9456.38,11499.04,2012,,San Francisco,
+147868,Alma Rosa Garcia,Special Nurse,849.45,0,28.32,191.27,877.77,1069.04,2014,,San Francisco,PT
+106739,Joann G Siobal,Registered Nurse,,0,0,7959.18,0,7959.18,2013,,San Francisco,
+122121,Michael Mason,EMT/Paramedic/Firefighter,79486.03,11570.7,7049.8,33573.17,98106.53,131679.7,2014,,San Francisco,FT
+72890,Grace Salud,Special Nurse,0,0,37.36,8.91,37.36,46.27,2012,,San Francisco,
+135574,Raffaella V Wilson,Registered Nurse,60506.68,701.61,0,17555.43,61208.29,78763.72,2014,,San Francisco,PT
+120935,Lance A Obtinalla Jr,Deputy Sheriff,93795.43,1738.87,6970.54,35014.44,102504.84,137519.28,2014,,San Francisco,FT
+140150,Ryan C Crow,Firefighter,23757.5,0,0,9982.21,23757.5,33739.71,2014,,San Francisco,PT
+106686,Tracy Y Higgins,Transit Operator,,0,0,8014.34,0,8014.34,2013,,San Francisco,
+120469,Alexander M Lamond,EMT/Paramedic/Firefighter,80143,19393.4,6783.04,33498.66,106319.44,139818.1,2014,,San Francisco,FT
+147667,Justina Dizon,Special Nurse,989.1,0,164.85,214.11,1153.95,1368.06,2014,,San Francisco,PT
+103394,Daniel Phillip Boutote,Eligibility Worker,18943,0,967.4,4468.04,19910.4,24378.44,2013,,San Francisco,
+147540,Ivan Y Castillo,Public Svc Aide-Public Works,1597.9,0,0,15.98,1597.9,1613.88,2014,,San Francisco,PT
+105493,Willie Daigle Jr,Transit Operator,7064.29,455.11,32.56,4364.12,7551.96,11916.08,2013,,San Francisco,
+66543,Margarita Herrera,Registered Nurse,17973.09,80.08,21.36,4245.6,18074.53,22320.13,2012,,San Francisco,
+147284,Alan K Tolbert,Public Svc Aide-Public Works,2070.29,0,0,20.7,2070.29,2090.99,2014,,San Francisco,PT
+76558,Kathryn Waaland,Sergeant 3,141389.04,4981.45,2832.11,40661.65,149202.6,189864.25,2013,,San Francisco,
+143223,Luana D Beavers-Deloach,Transit Operator,7159.17,1303.18,39.68,4640.62,8502.03,13142.65,2014,,San Francisco,PT
+143124,Marie E Monsen,Transit Operator,7316.8,1426.95,52.85,4747.43,8796.6,13544.03,2014,,San Francisco,PT
+71858,Arnitial Donely,Public Svc Aide-Public Works,1506.55,0,0,116.64,1506.55,1623.19,2012,,San Francisco,
+63919,Christopher Wilcox,Registered Nurse,19711.37,3004.88,16478.15,10172.15,39194.4,49366.55,2012,,San Francisco,
+106654,Ira Newman,Transit Operator,,0,115.72,7959.18,115.72,8074.9,2013,,San Francisco,
+70958,Mandisa Mabrey,Eligibility Worker,3165.48,11.22,109.29,286.43,3285.99,3572.42,2012,,San Francisco,
+72067,Juliet Palarca,Special Nurse,981.72,0,0,283.6,981.72,1265.32,2012,,San Francisco,
+46086,Arnel Maracha,Deputy Sheriff,88374,0,12448.42,36413.52,100822.42,137235.94,2012,,San Francisco,
+147504,Jamie J Dwyer,Special Nurse,1285.05,0,63.5,324.83,1348.55,1673.38,2014,,San Francisco,PT
+69902,Jacquelyn Vassar,Transit Operator,4017.09,278.96,16.37,2641.41,4312.42,6953.83,2012,,San Francisco,
+135122,Melinda Wong,Junior Administrative Analyst,53190.53,0,0,27849.12,53190.53,81039.65,2014,,San Francisco,FT
+122772,Graham P Hoffman,EMT/Paramedic/Firefighter,80031.97,11455.35,5163.82,31853,96651.14,128504.14,2014,,San Francisco,FT
+71420,Kevin Clark,Public Svc Aide-Public Works,2337.75,0,0,204.3,2337.75,2542.05,2012,,San Francisco,
+109069,Antionette L Riley,Public Svc Aide-Public Works,2396.21,0,0,23.97,2396.21,2420.18,2013,,San Francisco,
+141349,Audrey Ngo,Registered Nurse,18725.55,0,160.31,4351.3,18885.86,23237.16,2014,,San Francisco,PT
+68980,Robert Martinez,Registered Nurse,8862.65,0,365.99,740.47,9228.64,9969.11,2012,,San Francisco,
+148626,Renato C Gurion,Registered Nurse,0,0,6,1.24,6,7.24,2014,,San Francisco,PT
+39539,Omar Bueno,Sergeant 3,135967.55,3237.59,9032.26,37389.65,148237.4,185627.05,2012,,San Francisco,
+106805,Georgina M Pineda,Transit Operator,,0,0,7959.18,0,7959.18,2013,,San Francisco,
+140237,Beverly Bagdorf,Registered Nurse,14958.86,0,12311.86,5538.93,27270.72,32809.65,2014,,San Francisco,PT
+141997,Emmanuel R Borja,Transit Operator,10841.17,950.95,235.79,7082.09,12027.91,19110,2014,,San Francisco,PT
+110465,Vanessa E Almaguer,Special Nurse,72.98,0,0,15.2,72.98,88.18,2013,,San Francisco,
+64823,Lilly Fung,Registered Nurse,28586.7,0,0,10105.75,28586.7,38692.45,2012,,San Francisco,
+65683,Mo Ching Wan,Registered Nurse,22650,0,0,6714.77,22650,29364.77,2012,,San Francisco,
+107962,Leanne Abrigo Johnson,Registered Nurse,4015,0,0,876.07,4015,4891.07,2013,,San Francisco,
+141206,Wallina C Pellette,Transit Operator,14872.99,4598.75,87.52,4652.55,19559.26,24211.81,2014,,San Francisco,PT
+101991,Tretha T Stroughter,Eligibility Worker,24282.43,2048.88,1851.05,10164.46,28182.36,38346.82,2013,,San Francisco,
+109207,Yolanda Ramirez,Special Nurse,1505.7,0,239.96,383.43,1745.66,2129.09,2013,,San Francisco,
+48994,Sarah Silva,Deputy Sheriff,78346.64,7001.85,4451.18,33280,89799.67,123079.67,2012,,San Francisco,
+143534,Monique C Jacobs,Transit Operator,7781.96,0,0,4026.55,7781.96,11808.51,2014,,San Francisco,PT
+102585,Arturo Galarza,Eligibility Worker,23928.01,0,360,7988.84,24288.01,32276.85,2013,,San Francisco,
+71498,Willie Collins,Public Svc Aide-Public Works,2129.95,0,43.92,190.04,2173.87,2363.91,2012,,San Francisco,
+133757,Kathryn L Fowler,Registered Nurse,61942.6,0,1959.8,22291.87,63902.4,86194.27,2014,,San Francisco,PT
+72151,Jack O'Sullivan,Public Service Trainee,999.36,0,2.05,78.01,1001.41,1079.42,2012,,San Francisco,
+113634,Mark F Obrochta,Sergeant 3,137982.17,9196.03,5670.36,43038.5,152848.56,195887.06,2014,,San Francisco,FT
+46516,Petra Hahn,Deputy Sheriff,78353.8,22953.71,1062.13,32704.29,102369.64,135073.93,2012,,San Francisco,
+121337,Yvette R Gay,Deputy Sheriff,91439.78,1048.86,8289.84,34442.81,100778.48,135221.29,2014,,San Francisco,FT
+144559,Jarrett L Louie,Transit Operator,4390.16,1307.11,9.08,2848.36,5706.35,8554.71,2014,,San Francisco,PT
+64262,Emily Anderson,EMT/Paramedic/Firefighter,29175.65,2139.69,2169.08,11825.59,33484.42,45310.01,2012,,San Francisco,
+147049,Darryl L Armstrong,Transit Operator,1934.15,0,0,566.71,1934.15,2500.86,2014,,San Francisco,PT
+109290,Claire M Leflore,Eligibility Worker,1994,0,0,19.94,1994,2013.94,2013,,San Francisco,
+102042,Mary R Carr,Eligibility Worker,24628.57,2161.28,191.17,10922.03,26981.02,37903.05,2013,,San Francisco,
+71488,Maiza Padilla,Public Svc Aide-Public Works,1871.39,0,0,499.62,1871.39,2371.01,2012,,San Francisco,
+72135,Joannie Keys,Transit Operator,595.12,0,0,532.1,595.12,1127.22,2012,,San Francisco,
+109293,Orlando M Gonzalez,Public Svc Aide-Public Works,1987.09,0,0,19.87,1987.09,2006.96,2013,,San Francisco,
+100543,Kenia C Coronado,Eligibility Worker,37992.28,909,765,15763.21,39666.28,55429.49,2013,,San Francisco,
+145535,Wing C Kwan,Transit Operator,3421.96,0,0,2195.47,3421.96,5617.43,2014,,San Francisco,PT
+97613,Natalia Y Castillo Villegas,Junior Administrative Analyst,56813.75,0,0,23206.44,56813.75,80020.19,2013,,San Francisco,
+48079,Ceasar Garcia,Deputy Sheriff,87677.95,1035.25,3699.04,34871.11,92412.24,127283.35,2012,,San Francisco,
+148357,Darrel A Lachapelle,Public Service Trainee,320,0,0,3.2,320,323.2,2014,,San Francisco,PT
+71849,Shickola Ricks,Eligibility Worker,1508.8,0,0,125.89,1508.8,1634.69,2012,,San Francisco,
+65793,Linda Edwards,Transit Operator,16724.27,1738.13,243.39,9592.84,18705.79,28298.63,2012,,San Francisco,
+72341,Reuben Reyes,Special Nurse,531.94,0,36.64,157.95,568.58,726.53,2012,,San Francisco,
+65175,Barry Hyun,Eligibility Worker,22931.02,0,0,12170.84,22931.02,35101.86,2012,,San Francisco,
+145323,Heather E Gutierres,Eligibility Worker,6276.49,0,0,62.78,6276.49,6339.27,2014,,San Francisco,PT
+106404,Carolyn E Robinson,Transit Operator,5904,0,0,2771.21,5904,8675.21,2013,,San Francisco,
+64637,Matthew Lu,Transit Operator,25938.35,435.95,443.99,14046.65,26818.29,40864.94,2012,,San Francisco,
+144555,Lawrence C Blakes Jr,Transit Operator,4390.16,1314.78,9.08,2848.42,5714.02,8562.44,2014,,San Francisco,PT
+140998,Miguel J Gonzalez Jr,Transit Operator,17505.51,0,57.7,8358.89,17563.21,25922.1,2014,,San Francisco,PT
+142304,Tara A Amado,Transit Operator,11672.8,0,46.16,5552.79,11718.96,17271.75,2014,,San Francisco,PT
+110444,Brighton M Leung,Public Svc Aide-Public Works,104.9,0,2.46,1.07,107.36,108.43,2013,,San Francisco,
+138094,Nicole J Lafata Shark,EMT/Paramedic/Firefighter,40315.5,0,2418.93,13642.43,42734.43,56376.86,2014,,San Francisco,PT
+142597,Ernest E Hayles,Firefighter,11180,0,0,4572.32,11180,15752.32,2014,,San Francisco,PT
+109955,David A Fleming,Special Nurse,618.19,0,24.72,134.27,642.91,777.18,2013,,San Francisco,
+109056,Melinda Kuoch,Eligibility Worker,1994,0,0,445.06,1994,2439.06,2013,,San Francisco,
+102861,Jeanne M D'Arcy,Registered Nurse,5119,0,22525.52,1568.43,27644.52,29212.95,2013,,San Francisco,
+109510,Iesha M Jones,Public Svc Aide-Public Works,1542.97,0,0,15.43,1542.97,1558.4,2013,,San Francisco,
+71485,Clarence Walker,Public Svc Aide-Public Works,2129.95,0,43.92,201.85,2173.87,2375.72,2012,,San Francisco,
+105484,Michaela T Womack,Transit Operator,7239.23,177.59,32.02,4494.45,7448.84,11943.29,2013,,San Francisco,
+135721,Mary C Huston,Registered Nurse,58997.59,50.29,1868.27,16918.73,60916.15,77834.88,2014,,San Francisco,PT
+138726,Christina A Couch,EMT/Paramedic/Firefighter,30732,1446.58,2370.77,13848.34,34549.35,48397.69,2014,,San Francisco,PT
+71342,Roy Hill,Public Svc Aide-Public Works,2461.14,0,9.01,213.86,2470.15,2684.01,2012,,San Francisco,
+147588,Jessica H Lee,Special Nurse,1278.2,0,0,238.96,1278.2,1517.16,2014,,San Francisco,PT
+70927,Kennis Grant,Transit Operator,0,0,106.86,3511.8,106.86,3618.66,2012,,San Francisco,
+69443,John Hunt,Transit Operator,6150.2,1171.18,537.12,634.77,7858.5,8493.27,2012,,San Francisco,
+49188,Richard Kendall,Deputy Sheriff,77550.95,470.78,10965.66,33357.41,88987.39,122344.8,2012,,San Francisco,
+72441,Marcus Duty,Public Svc Aide-Public Works,519.5,0,12.2,46.49,531.7,578.19,2012,,San Francisco,
+72129,Glenn Daniels,Public Svc Aide-Public Works,1026.05,0,0,112.75,1026.05,1138.8,2012,,San Francisco,
+71886,David Ayers Jr,Public Svc Aide-Public Works,1428.63,0,0,131.48,1428.63,1560.11,2012,,San Francisco,
+138822,Neal K Rodil,EMT/Paramedic/Firefighter,30732,1351.53,1480.38,13838.47,33563.91,47402.38,2014,,San Francisco,PT
+110421,Blesilda P Huypungco,Special Nurse,,0,113.94,24,113.94,137.94,2013,,San Francisco,
+72498,Catheryn Williams,Special Nurse,338.51,0,33.84,102.19,372.35,474.54,2012,,San Francisco,
+139203,Merter Bozkurt,Transit Operator,24987.15,1725.24,885.43,15697.82,27597.82,43295.64,2014,,San Francisco,PT
+72603,Connie Love-Miles,Special Nurse,143.65,0,14.37,174.21,158.02,332.23,2012,,San Francisco,
+84282,Jared F Cooper,EMT/Paramedic/Firefighter,87205.86,2826.74,10520.93,31800.92,100553.53,132354.45,2013,,San Francisco,
+71389,Alicia Brown,Public Svc Aide-Public Works,2337.75,0,48.8,210.77,2386.55,2597.32,2012,,San Francisco,
+109715,Sen Cheong Lai,Transit Operator,729.44,0,30.32,405.15,759.76,1164.91,2013,,San Francisco,
+110275,Graciela M Arevalo,Special Nurse,263.29,0,26.33,60.77,289.62,350.39,2013,,San Francisco,
+147814,Iris J Lett,Transit Operator,756.92,170.31,0,223.48,927.23,1150.71,2014,,San Francisco,PT
+142199,Tim C Ghigliazza,Transit Operator,10305.1,694.2,121.82,6700.23,11121.12,17821.35,2014,,San Francisco,PT
+148472,Jimmy Tang,Public Service Trainee,182.58,0,0,1.83,182.58,184.41,2014,,San Francisco,PT
+48811,Aaron Schmidt,Deputy Sheriff,76558.8,13435.42,1909.7,32108.71,91903.92,124012.63,2012,,San Francisco,
+147204,Mario Armbrister,Public Svc Aide-Public Works,2180.13,0,47.64,22.29,2227.77,2250.06,2014,,San Francisco,PT
+109353,Elizabeth M Leahy,Firefighter,,0,1886.38,0,1886.38,1886.38,2013,,San Francisco,
+110036,Carla R Greenblatt,Special Nurse,494.55,0,49.45,108.2,544,652.2,2013,,San Francisco,
+140786,Dhakir R Zaki,Transit Operator,13976.1,4093.11,326.18,9176.93,18395.39,27572.32,2014,,San Francisco,PT
+147840,Alondra Correa Almanza,Public Service Trainee,1074,0,32.64,11.06,1106.64,1117.7,2014,,San Francisco,PT
+48199,Otha Cotton,Deputy Sheriff,87947.57,501,4056.2,34352.07,92504.77,126856.84,2012,,San Francisco,
+39202,Lawrence Chan,Sergeant 3,135977.76,7718.7,7733.28,38259.83,151429.74,189689.57,2012,,San Francisco,
+63024,Ying Ying Hui,Registered Nurse,39599.08,1085.78,1997.48,17396.06,42682.34,60078.4,2012,,San Francisco,
+105463,Terri L Mathis,Transit Operator,7611.73,772.69,60.12,3579.36,8444.54,12023.9,2013,,San Francisco,
+139849,Sedrick M Mcarthur,Transit Operator,18880.5,7842.37,250.28,9910.61,26973.15,36883.76,2014,,San Francisco,PT
+136970,Karen M Gomez,Registered Nurse,49186.88,125.89,575,18126.1,49887.77,68013.87,2014,,San Francisco,PT
+48564,Thomas Ro,EMT/Paramedic/Firefighter,74118.62,15060.35,7864.68,28169.55,97043.65,125213.2,2012,,San Francisco,
+97623,Francis J Monsada,Junior Administrative Analyst,53325.01,1147.97,0,25475.22,54472.98,79948.2,2013,,San Francisco,
+69338,Samer Bouri,Transit Operator,5997.16,0,0,2797.37,5997.16,8794.53,2012,,San Francisco,
+87033,Robert J Loberg,Deputy Sheriff,83331.6,4224.52,1119.79,30403.68,88675.91,119079.59,2013,,San Francisco,
+72081,John Donnelly,Special Nurse,930.75,0,31.02,270.55,961.77,1232.32,2012,,San Francisco,
+110299,Silas D Moultrie Jr,Public Svc Aide-Public Works,311.7,0,7.32,3.19,319.02,322.21,2013,,San Francisco,
+130622,Dennis J Gerbino,IS Programmer Analyst,67667.55,0,0,29304.77,67667.55,96972.32,2014,,San Francisco,FT
+54798,Frankie Johnson,Senior Eligibility Worker,68977.7,0,612.6,31204.72,69590.3,100795.02,2012,,San Francisco,
+69063,Nina Davis,PS Aide Health Services,8928.12,0,0,766.22,8928.12,9694.34,2012,,San Francisco,
+70438,Pecola Jones,Public Svc Aide-Public Works,4511.81,0,0,460.53,4511.81,4972.34,2012,,San Francisco,
+88467,Grace Lin,Estate Investigator,82901.08,0,0,30165.72,82901.08,113066.8,2013,,San Francisco,
+56140,Clark Bell,IS Programmer Analyst-Senior,48945.1,0,23100.3,23354.1,72045.4,95399.5,2012,,San Francisco,
+714,YEVA JOHNSON,SENIOR PHYSICIAN SPECIALIST,177810.58,0,950,,178760.58,178760.58,2011,,San Francisco,
+29865,LEA YAMAGATA,LIBRARY PAGE,16863.33,0,201.09,,17064.42,17064.42,2011,,San Francisco,
+147636,Russell Patrick Mangahas,Special Nurse,0,0,1153.78,277.75,1153.78,1431.53,2014,,San Francisco,PT
+110161,Patrick F Mcpartland,Public Service Trainee,501.13,0,0,5.01,501.13,506.14,2013,,San Francisco,
+47639,Patrick Crane,Deputy Sheriff,84356.51,5334.96,5764.75,34143.72,95456.22,129599.94,2012,,San Francisco,
+51908,Patrick Martinez,Estate Investigator,77454,0,0,33194.97,77454,110648.97,2012,,San Francisco,
+85769,Patrick T Truong,Deputy Sheriff,86758.9,877.32,6484.64,31360.09,94120.86,125480.95,2013,,San Francisco,
+115360,Patrick Kennedy,Sergeant 3,124770.11,4709.34,8031.28,40093.21,137510.73,177603.94,2014,,San Francisco,FT
+109179,Emilia C Patrick,Special Nurse,1824.38,0,0,373.71,1824.38,2198.09,2013,,San Francisco,
+125793,Patrick S Renshaw,EMT/Paramedic/Firefighter,72637.09,6033.4,5105.38,30691.14,83775.87,114467.01,2014,,San Francisco,FT
+133413,Emilia C Patrick,Registered Nurse,65992.6,0,296.7,21067.97,66289.3,87357.27,2014,,San Francisco,PT
+121116,Patrick T Truong,Deputy Sheriff,90269,4330.78,7372.09,34506.78,101971.87,136478.65,2014,,San Francisco,FT
+84,EDWARD REISKIN,GENERAL MANAGER-METROPOLITAN TRANSIT AUTHORITY,230827.12,0,0,,230827.12,230827.12,2011,,San Francisco,
+1,NATHANIEL FORD,GENERAL MANAGER-METROPOLITAN TRANSIT AUTHORITY,167411.18,0,400184.25,,567595.43,567595.43,2011,,San Francisco,
+12,PATRICIA JACKSON,CAPTAIN III (POLICE DEPARTMENT),99722,87082.62,110804.3,,297608.92,297608.92,2011,,San Francisco,
+371,TERESA BARRETT,CAPTAIN III (POLICE DEPARTMENT),188328.08,0,4586.42,,192914.5,192914.5,2011,,San Francisco,
+62,ANNA BROWN,CAPTAIN III (POLICE DEPARTMENT),102571.24,7437,128543.64,,238551.88,238551.88,2011,,San Francisco,
+304,DOUGLAS MCEACHERN,CAPTAIN III (POLICE DEPARTMENT),194566.01,1109.1,819.03,,196494.14,196494.14,2011,,San Francisco,
+367,JOHN LOFTUS,CAPTAIN III (POLICE DEPARTMENT),188341.62,0,4609.75,,192951.37,192951.37,2011,,San Francisco,
